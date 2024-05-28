@@ -12,6 +12,7 @@ root.title("Weather App")
 root.geometry("900x500+300+200")
 root.resizable(False, False)
 
+// Function to get weather from API
 def getWeather():
     try:
         city = textfield.get()
