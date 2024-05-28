@@ -7,6 +7,8 @@ from datetime import datetime
 import requests
 import pytz
 
+
+#  Initialize root
 root = Tk()
 root.title("Weather App")
 root.geometry("900x500+300+200")
