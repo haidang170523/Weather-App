@@ -5,9 +5,7 @@
 ---
 
 ## 📸 Giao diện người dùng
-> *(Thêm hình ảnh thực tế nếu có)*
-
-![Giao diện minh họa](preview.png)
+> *(Tạm thời chưa có)*
 
 ---
 
@@ -42,7 +40,7 @@ Cài Python 3 từ [https://www.python.org/downloads/](https://www.python.org/do
 
 ### 2. Cài các gói phụ thuộc
 
-Chạy lệnh sau trong terminal: python weahter.py 
+## Chạy lệnh sau trong terminal: 
 
 ```bash
-pip install geopy timezonefinder pytz requests
+python weahter.py 
